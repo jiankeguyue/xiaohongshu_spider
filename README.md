@@ -87,3 +87,9 @@ config文件里面填入自己的cookie
 
 
 
+公众号链接
+
+https://mp.weixin.qq.com/s/3mZ66SBusCsZg7lqcusMzg
+
+目前源码已下架，有需求者请通过公众号联系wx进行了解
+
